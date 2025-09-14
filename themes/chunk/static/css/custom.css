@@ -1,0 +1,18 @@
+body {
+	background-color: #fff;
+	background: url("../img/background.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+#container {
+    background-color: rgba(255,255,255,0.9);
+}
+
+/* Override turquose (#36bcab) colors from style.css */
+a:hover {
+	color: #9b5c09 !important;
+}
+
+#menu {
+    display: none;
+}

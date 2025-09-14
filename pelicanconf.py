@@ -6,6 +6,11 @@ SITENAME = 'Lune de Malta'
 SITEURL = ""
 
 THEME = os.path.join(_HERE, "themes", "chunk")
+SITESUBTITLE = 'Nieoficjalna strona Wspólnoty Mieszkaniowej Lune de Malta w Poznaniu'
+FOOTER_TEXT = 'CC'
+SINGLE_AUTHOR = True
+MINT = False
+DISPLAY_CATEGORIES_ON_MENU = False
 
 PATH = "content"
 

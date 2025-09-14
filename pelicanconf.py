@@ -1,6 +1,11 @@
+import os.path
+_HERE = os.path.abspath(os.path.dirname(__file__))
+
 AUTHOR = 'Tomasz Maćkowiak'
 SITENAME = 'Lune de Malta'
 SITEURL = ""
+
+THEME = os.path.join(_HERE, "themes", "chunk")
 
 PATH = "content"
 

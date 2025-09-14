@@ -1,5 +1,8 @@
 Title: Pierwsze nieformalne zebranie dot. formy zarządu
-Date: 2010-12-03 10:20
+Date: 2025-09-11 20:00
 Category: Zebrania
+Slug: pierwsze-zebranie
+Authors: Tomasz Maćkowiak
+Summary: Krótkie podsumowanie pierwszego nieformalnego zebrania
 
-Following is a review of my favorite mechanical keyboard.
+W dniu 11 września 2025 roku odbyło się pierwsze nieformalne zebranie dotyczące zmiany formy zarządu nieruchomością wspólną.

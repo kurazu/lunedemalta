@@ -21,3 +21,12 @@
 .site-header h1 a, .site-header p {
     color: #000 !important;
 }
+
+a {
+    color: #9b5c09;
+}
+
+.button:hover {
+    color: #fff;
+    background-color: #9b5c09;
+}

@@ -18,7 +18,7 @@
 
         {% if summarise or article.metadata['summary'] or SUMMARY_MAX_LENGTH %}
             {{ article.summary }}
-            <a class="button" href="{{ SITEURL }}/{{ article.url }}#{{ article.slug }}">Continue reading</a>
+            <a class="button" href="{{ SITEURL }}/{{ article.url }}#{{ article.slug }}">Czytaj</a>
         {% else %}
             {{ article.content }}
         {% endif %}

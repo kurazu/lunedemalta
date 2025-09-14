@@ -6,6 +6,7 @@ SITENAME = 'Lune de Malta'
 SITEURL = ""
 
 THEME = os.path.join(_HERE, "themes", "chunk")
+DEFAULT_DATE_FORMAT = ('%Y-%m-%d')
 SITESUBTITLE = 'Nieoficjalna strona Wspólnoty Mieszkaniowej Lune de Malta w Poznaniu'
 FOOTER_TEXT = 'CC'
 SINGLE_AUTHOR = True

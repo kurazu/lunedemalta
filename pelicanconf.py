@@ -1,18 +1,19 @@
 import os.path
+import hashlib
 _HERE = os.path.abspath(os.path.dirname(__file__))
 
 AUTHOR = 'Tomasz Maćkowiak'
+EMAIL = 'kurazu@kurazu.net'
+EMAIL_SHA256 = hashlib.sha256(EMAIL.encode('utf-8')).hexdigest()
+
 SITENAME = 'Lune de Malta'
 SITEURL = ""
 
-THEME = os.path.join(_HERE, "themes", "chunk")
-DEFAULT_DATE_FORMAT = ('%Y-%m-%d')
+THEME = os.path.join(_HERE, "themes", "genus")
+SITETITLE = 'Lune de Malta'
+COPYRIGHT_YEAR = 2025
 SITESUBTITLE = 'Nieoficjalna strona Wspólnoty Mieszkaniowej Lune de Malta w Poznaniu'
-FOOTER_TEXT = 'CC'
-SINGLE_AUTHOR = True
-MINT = False
-DISPLAY_CATEGORIES_ON_MENU = False
-
+GRAVATAR_IMAGE = f'https://www.gravatar.com/avatar/{EMAIL_SHA256}?s=200&d=identicon&r=g'
 PATH = "content"
 
 TIMEZONE = 'Europe/Warsaw'

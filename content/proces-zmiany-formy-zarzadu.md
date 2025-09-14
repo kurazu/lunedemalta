@@ -1,7 +1,9 @@
 Title: Proces zmiany formy zarządu
-Date: 2025-09-11 20:00
+Date: 2025-08-06 22:00
 Slug: proces-zmiany-formy-zarzadu
-Authors: Tomasz Maćkowiak
+Category: Proces
+Author: Tomasz Maćkowiak
+Slug: proces-zmiany-formy-zarzadu
 Summary: Krótki opis procesu zmiany formy zarządu nieruchomością wspólną
 
 Obecnie zarząd nad nieruchomością wspólną sprawuje administrator narzucony przez dewelopera

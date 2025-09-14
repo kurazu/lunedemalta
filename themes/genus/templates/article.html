@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block title %}{{ article.title | striptags }}{% endblock %}
+{% block title %}{{ SITENAME }} -- {{ article.title | striptags }}{% endblock %}
 {% block content %}
 <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
     <header>
@@ -10,7 +10,7 @@
             {% if GRAVATAR_IMAGE %}
             <meta itemprop="image" content="{{ GRAVATAR_IMAGE }}">
             {% endif %}
-            Posted on {{ article.date | strftime('%d %B %Y') }} in <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+            Opublikowano {{ article.date | strftime('%Y-%m-%d') }} w <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
         </p>
     </header>
     <section id="content" itemprop="mainEntityOfPage">

@@ -4,12 +4,12 @@ Slug: proces-zmiany-formy-zarzadu
 Category: Proces
 Author: Tomasz Maćkowiak
 Slug: proces-zmiany-formy-zarzadu
-Summary: Krótki opis procesu zmiany formy zarządu nieruchomością wspólną
+Summary: Opis procesu zmiany formy zarządu nieruchomością wspólną.
 
 Obecnie zarząd nad nieruchomością wspólną sprawuje administrator narzucony przez dewelopera
 (tzw. "zarząd powierzony" - art. 18 ustawy o własności lokali) - firma Admico.
 
-Chcemy rozpocząć proces zmiany na zarząd właścicielski (art. 20 ustawy o własności lokali), abyśmy to my - właściciele - decydowali o sprawach naszej wspólnoty i mieli swobodę wyboru administratora.
+Chcemy rozpocząć proces zmiany na zarząd właścicielski (art. 20 ustawy o własności lokali), abyśmy to my - właściciele - decydowali o sprawach naszej wspólnoty i mieli swobodę wyboru i odwoływania administratora.
 
 W celu zmiany powierzonego zarządcy na własny zarząd wspólnoty potrzebne są następujące kroki:
 

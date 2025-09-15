@@ -30,3 +30,15 @@ a {
     color: #fff;
     background-color: #9b5c09;
 }
+
+ol {
+    list-style: decimal;
+}
+
+ul {
+    list-style: circle;
+}
+
+strong {
+    font-weight: bold;
+}

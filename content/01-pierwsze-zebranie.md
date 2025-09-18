@@ -17,9 +17,9 @@ Właściciele mieszkań w większości opowiedzieli się pozytywnie za zmianą f
 
 W skrócie proces zmiany będzie miał następujący przebieg:
 
-1. Zebranie podpisów 10% udziałów pod wnioskiem o zwołanie zebrania.
+1. Zebranie podpisów 10% udziałów pod wnioskiem o zwołanie formalnego zebrania.
 2. Zebranie pełnomocnictw do reprezentowania 50%+ udziałów na zebraniu.
-3. Przegłosowanie uchwał podczas zebrania:
+3. W obecności notariusza przegłosowanie uchwał podczas zebrania:
 
     * zmiana formy zarządu na zarząd właścicielski,
     * wybór członków zarządu.
@@ -30,12 +30,11 @@ Potwierdziliśmy, że wybór konkretnej firmy administrującej jest sprawą drug
 
 Poszukujemy osób chętnych do kandydowania do zarządu oraz do wsparcia przy zbieraniu podpisów.
 
-Właściciele podczas zebrania zgłosili potrzebę **alternatywnego mechanizmu komunikacji**, który nie będzie zależny od Facebooka, gdzie nie wszyscy są zarejestrowani oraz są problemy z responsywnością administratora grupy. 
-W tym celu stworzyłem [formularz, za pomocą którego można zapisać się na listę mailingową](https://example.com). Na tą listę będę wysyłał wszystkie przyszłe aktualizacje dotyczące procesu zmiany formy zarządu (kopie będą też szły na tą stronę, na Facebooka, do klatek i skrzynek pocztowych). Warto się zapisać, aby być nie ominęły Cię żadne ważne informacje!
+Właściciele podczas zebrania zgłosili potrzebę **alternatywnego mechanizmu komunikacji**, który nie będzie zależny od Facebooka, gdzie nie wszyscy są zarejestrowani oraz są problemy z responsywnością administratora grupy. Utworzę alternatywny kanał komunikacji, aby wszyscy zainteresowani mogli się zapisać i być na bieżąco z postępami.
 
 **Kolejne kroki**:
 
-1. (Opcjonalne) [Zapisy na listę mailingową](https://example.com).
+1. Zapisy na listę mailingową.
 1. Wybór miejsca i terminu zebrania formalnego (biorę na siebie) wiosna/lato 2026 r.
-1. Organizacja kolejnego nieformalnego zebrania, na którym zaczniemy zbierać 10% podpisów pod wnioskiem o zwołanie zebrania formalnego. Zebranie wstępnie planowane jest na środek października 2025 r. na terenie osiedla. Informacja o miejscu i terminie zostanie podana tutaj, na grupie Facebookowej oraz przez ogłoszenie w skrzynkach pocztowych i na klatkach schodowych.
-1. Właściciele chętni do kandydowania do zarządu lub pomocy przy zbieraniu podpisów proszeni są o kontakt ze mną przez email lub wiadomość prywatną na Facebooku.
+1. Organizacja kolejnego nieformalnego zebrania, na którym zaczniemy zbierać 10% podpisów pod wnioskiem o zwołanie zebrania formalnego. Zebranie wstępnie planowane jest na środek października 2025 r. na terenie osiedla. Informacja o miejscu i terminie zostanie podana na wszystkich kanałach komunikacji (na grupie Facebookowej, liście mailingowej,  przez ogłoszenie w skrzynkach pocztowych i na klatkach schodowych).
+1. Właściciele chętni do kandydowania do zarządu lub pomocy przy zbieraniu podpisów proszeni są o kontakt ze mną [przez email](mailto:tomasz.mackowiak@lunedemalta.pl).

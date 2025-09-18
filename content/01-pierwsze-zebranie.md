@@ -24,7 +24,7 @@ W skrócie proces zmiany będzie miał następujący przebieg:
     * zmiana formy zarządu na zarząd właścicielski,
     * wybór członków zarządu.
 
-Szczegółowe informacje na temat procesu zmiany formy zarządu znajdują się [we wcześniejszym wpisie]({filename}/proces-zmiany-formy-zarzadu.md).
+Szczegółowe informacje na temat procesu zmiany formy zarządu znajdują się we wcześniejszym wpisie.
 
 Potwierdziliśmy, że wybór konkretnej firmy administrującej jest sprawą drugorzędną - będzie to pierwsze zadanie nowo wybranego zarządu właścicielskiego.
 

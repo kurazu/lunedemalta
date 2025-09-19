@@ -5,6 +5,11 @@
         {% else %}
         {% endif %}
     </a>
-    <h1 itemprop="name"><a href="{{ SITEURL }}/index.html">{{ SITETITLE }}</a></h1>
+    <h1 itemprop="name">
+        <span style="display: inline-flex; align-items: center;">
+            <img src="/favicon-32x32.png" alt="🌕" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
+            <a href="{{ SITEURL }}/index.html">{{ SITETITLE }}</a>
+        </span>
+    </h1>
     {% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}
 </header>

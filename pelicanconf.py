@@ -47,3 +47,19 @@ DEFAULT_PAGINATION = False
 
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
+
+# --- Favicon and manifest static files ---
+STATIC_PATHS = [
+    'extra/apple-touch-icon.png',
+    'extra/favicon-32x32.png',
+    'extra/favicon-16x16.png',
+    'extra/favicon.ico',
+    'extra/site.webmanifest',
+]
+EXTRA_PATH_METADATA = {
+    'extra/apple-touch-icon.png': {'path': 'apple-touch-icon.png'},
+    'extra/favicon-32x32.png': {'path': 'favicon-32x32.png'},
+    'extra/favicon-16x16.png': {'path': 'favicon-16x16.png'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/site.webmanifest': {'path': 'site.webmanifest'},
+}

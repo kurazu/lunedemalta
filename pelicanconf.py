@@ -50,6 +50,7 @@ TAG_SAVE_AS = ''
 
 # --- Favicon and manifest static files ---
 STATIC_PATHS = [
+    'images',
     'extra/apple-touch-icon.png',
     'extra/favicon-32x32.png',
     'extra/favicon-16x16.png',

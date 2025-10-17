@@ -1,5 +1,5 @@
 Title: Zwołanie drugiego nieformalnego zebrania dot. formy zarządu
-Date: 2025-10-18 09:00
+Date: 2025-10-17 22:00
 Category: Zebrania
 Slug: ogloszenie-drugie-zebranie
 Author: Tomasz Maćkowiak

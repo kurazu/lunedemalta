@@ -22,3 +22,7 @@ Pakiet ten zawiera następujące dokumenty:
 * instrukcja postępowania.
 
 Zachęcam do zapoznania się z dokumentami oraz **podpisania i oddania załączonego tam pełnomocnictwa**, które umożliwi reprezentowanie Państwa udziałów na zebraniu formalnym i skuteczne przeprowadzenie głosowania nad zmianą formy zarządu.
+
+Więcej informacji o inicjatywie zmiany formy zarządu można znaleźć na [https://lunedemalta.pl](https://lunedemalta.pl).
+
+Elektroniczna wersja pakietu dokumentów jest dostępna dla właścicieli mieszkań zarejestrowanych na liście mailingowej [https://groups.google.com/g/lune-de-malta](https://groups.google.com/g/lune-de-malta). Jeśli nie jesteś jeszcze zapisany na listę mailingową, zachęcam do dołączenia, aby otrzymywać najnowsze informacje dotyczące procesu zmiany formy zarządu.
